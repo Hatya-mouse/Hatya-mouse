@@ -4,7 +4,7 @@ Hello! I'm Hatya-mouse, a student at National Institute of Technology (NIT/Kosen
 
 # Works
 
-Here are collage of pictures from some of my recent projects:
+Here is a collage of pictures from some of my recent projects:
 
 ![Some pictures of my projects](./images/readme_collage.png)
 
