@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! I'm Hatya-mouse, a student at National Institute of Technology (NIT/Kosen), Nagano College in Japan.
+Hello! I'm Hatya-mouse, a student at National Institute of Technology (NIT/Kosen) in Japan.
 
 # Works
 
