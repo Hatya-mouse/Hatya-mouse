@@ -28,6 +28,9 @@ Hello! I'm Hatya-mouse, a student at National Institute of Technology (NIT/Kosen
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Bun](https://img.shields.io/badge/bun-%23FBF0DF?style=for-the-badge&logo=bun&logoColor=%2314151A)](https://bun.com)
 [![Neovim](https://img.shields.io/badge/neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
+[![GitHub](https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black)](https://notion.com)
+[![GitHub](https://img.shields.io/badge/raycast-black?style=for-the-badge&logo=raycast&logoColor=%23FF6363)](https://raycast.com)
+[![GitHub](https://img.shields.io/badge/obsidian-black?style=for-the-badge&logo=obsidian&logoColor=%237C3AED)](https://obsidian.md)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
 ## GitHub Stats
