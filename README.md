@@ -32,9 +32,19 @@ Hello! I'm Hatya-mouse, a student at National Institute of Technology (NIT/Kosen
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=github_dark_dimmed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=default_repocard">
+  <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=hatya-mouse&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=default_repocard">
+</picture>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=github_dark_dimmed)
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=github_dark_dimmed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=default_repocard">
+  <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=hatya-mouse&hide_title=true&langs_count=3&theme=default_repocard">
+</picture>
 
 ## Works
 
